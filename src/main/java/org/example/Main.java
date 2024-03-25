@@ -11,7 +11,7 @@ public class Main {
         // Press Shift+F10 or click throw button in the gutter to run the code dfdfdf.
         for (int i = 1; i <= 5; i++) {
 
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
+            // Press Shift+F9 to start debugging yourcode. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
