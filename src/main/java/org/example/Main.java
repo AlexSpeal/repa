@@ -8,7 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fxing it.
         System.out.printf("Hello and welcome!");
 
-        // Press Shift+F10 or click throw button in the gutter to run the code dfdfdf.
+        // Press Shift+F10 or click throw in the gutter to run the code dfdfdf.
         for (int i = 1; i <= 5; i++) {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
